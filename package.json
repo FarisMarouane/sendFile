@@ -1,0 +1,14 @@
+{
+  "name": "marouane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "marouane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
